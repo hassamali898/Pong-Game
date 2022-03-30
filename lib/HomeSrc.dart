@@ -337,7 +337,11 @@ class _HomeSrcState extends State<HomeSrc> {
                   width: paddleWidth,
                 ),
                 //Ball
-                Ball(x: ballX, y: ballY),
+                Ball(
+                  x: ballX,
+                  y: ballY,
+                  isGameStarted: isGameStarted,
+                ),
               ],
             ),
           )),
