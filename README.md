@@ -5,7 +5,7 @@ Hey! Look at this awesome game that i build in flutter
 
 ## Demo
 
-Click the link for live preview [**here**](https://kaleidoscopic-cobbler-efde34.netlify.app/#/)
+Click the link for live preview [**here**](https://flutter-ponggame.netlify.app/)
 
 
 ## ScreenShot
